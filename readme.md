@@ -10,13 +10,13 @@ This is a very important process in programming. We refactor when we want to imp
 
 In this assignment you are going to do 5 things.
 
-1. Practice Git! 
+1. **Practice Git!** 
 	* Fork this repo to your github account
 	* Clone this repo to your local machine
 	* Make a commit with a descriptive commit message for *each* of the below steps
 	* Push your code to your github repo.
 
-1. You will refactor the CSS to be more class-based. 
+1. **You will refactor the CSS to be more class-based.**
 
 	This doesn't mean you can't do some CSS using the traditional element style selection. It just means that anything that fits into a nice class-based style should be. For example, if we have an `aside` element that is styled like this: 
 
@@ -55,13 +55,13 @@ In this assignment you are going to do 5 things.
 
 	There are no right answers here, but your refactor should look pretty similar to this. *You are not changing how the site looks. Just refactoring the structure!*
 
-1. Refactor the JS to use ES6 as much as possible. 
+1. **Refactor the JS to use ES6 as much as possible.**
 	
 	This means `let` and `const` instead of `var`! And it means being thoughtful about which of those you use. Will the variable you are creating ever be changed? If not, it should be `const`.  
 
 	This also means using *arrow functions*.
 
-1. Refactor your code to be Object Oriented with a minimum of one object. 
+1. **Refactor your code to be Object Oriented,**
 
 	Once you have done the above steps, its time for one more refactor: You are going to make this code more Object Oriented. For this, you will make a class called StopWatch. Your StopWatch class will need some properties and methods. 
 
