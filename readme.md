@@ -25,10 +25,10 @@ In this assignment you are going to do 5 things.
 	```
 	```css
 	aside {
-		color: blue;
-		font-size: .5em;
-		float: left;
-  		width: 30%;
+	  color: blue;
+	  font-size: .5em;
+	  float: left;
+	  width: 30%;
 	}
 	```
 
