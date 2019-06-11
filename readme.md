@@ -1,5 +1,7 @@
 # TimerJS Refactor
 
+![](https://cdn-images-1.medium.com/max/1000/0*jjASXWv5AnJ5SBuZ.jpg)
+
 For tonights assignment, you are going to use everything we have learned so far! 
 
 You are going to *refactor* some code! 
