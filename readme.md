@@ -39,17 +39,17 @@ In this assignment you are going to do 5 things.
 
 	```css
 	.blue  {
-		color: blue
+	  color: blue
 	}
 	.small {
-		font-size: .5em
+	  font-size: .5em
 	}
 	.
 	.left {
-		float: left;
+	  float: left;
 	}
 	aside {
-		width: 30%;
+	  width: 30%;
 	}
 	```
 
