@@ -7,7 +7,7 @@ const h1 = document.getElementsByTagName("h1")[0]
 
 startButton.addEventListener("click", () => {
   if(!timerId){
-    timerId = setInterval(function(){
+    timerId = setInterval(() => {
       h1.innerHTML = "Time Elapsed: " + Math.round(seconds * 100) / 100 
       seconds = seconds += 0.01
     }, 10)
