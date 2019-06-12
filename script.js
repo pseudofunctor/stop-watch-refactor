@@ -14,9 +14,7 @@ startButton.addEventListener("click", () => {
   }
 })
 
-pauseButton.addEventListener("click", () => {
-  timerId = clearInterval(timerId)
-})
+pauseButton.addEventListener("click", () => timerId = clearInterval(timerId))
 
 resetButton.addEventListener("click", () => {
   timerId = clearInterval(timerId)
