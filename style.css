@@ -1,20 +1,28 @@
 .controls {
   margin: 50px;
+  /*text-align: center;*/
+}
+
+.text-center {
   text-align: center;
+}
+
+.white {
+  color: #FFF;
 }
 
 h1 {
   font-family: Consolas;
   font-size: 72px;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 button {
   background: #4479BA;
-  color: #FFF;
+  /*color: #FFF;*/
   font-family: Josefin Slab;
   font-size: 50px;
-  text-align: center;
+  /*text-align: center;*/
   border: 1px solid black;
   margin: 20px;
   padding: 15px 25px;
